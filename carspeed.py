@@ -10,7 +10,7 @@
 #
 # Last Updated: 2025-06-28
 # Update Log:
-#   - 2024-07-30: Refactored code based on engineering review. Improved performance, thread safety, and robustness.
+#   - 2025-06-28: Refactored code based on engineering review. Improved performance, thread safety, and robustness.
 #   - 2025-06-25: Implemented "High-Precision Timestamps" using linear interpolation for more accurate speed results.
 #   - 2025-06-25: Added a "Stop Processing" button to interrupt analysis.
 #   - 2025-06-25: Implemented an "Enhanced Filtering" mode using contour properties to reduce noise.
