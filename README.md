@@ -1,6 +1,7 @@
 # visualspeed
 This program was primarly coded by AI.  
-My intent behind this program is to be able to measure/estimate the speed of cars passing on the street in front.
+My intent behind this program is to be able to measure/estimate the speed of cars passing on the street in front using video recorded from my phone camera. 
+
 
 For best results: 
 1) Ensure the camera is stable (place it on a ledge or stand)
@@ -15,7 +16,7 @@ Plans for next updates:
 # AI Generated Readme : 
 Visual Speed Measuring / Car Speed Detector
 
-A PyQt6 desktop app for measuring vehicle speed in any video clip. **Version 2024‑07‑30** rewrites the processing core for higher FPS and safer threading.
+A PyQt6 desktop app for measuring vehicle speed in any video clip. **Version 2024‑06‑28* rewrites the processing core for higher FPS and safer threading.
 
 ---
 
